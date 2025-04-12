@@ -1,12 +1,6 @@
-## Hi, this is us 👋
-```
-██████   █████  ██ ███████  ██████  ██████   █████  
-  ██   ██ ██   ██ ██    ███  ██    ██ ██   ██ ██   ██ 
-  ██████  ███████ ██   ███   ██    ██ ██████  ███████ 
-  ██   ██ ██   ██ ██  ███    ██    ██ ██   ██ ██   ██ 
-  ██   ██ ██   ██ ██ ███████  ██████  ██   ██ ██   ██
-```
+![Frame 2 (2)](https://github.com/user-attachments/assets/019a76bf-e8ac-4fd9-9696-f8b85131f484)
 
+## Hi, this is us 👋
 Raizora was founded in 2024 and is located in Banjarbaru, South Kalimantan. The name "Raizora" comes from Spanish, meaning "root." This name represents our aim to be a strong foundation for innovative and sustainable business ideas.
 
 We started Raizora with a fish store to support a variety of business ideas. As we grew, we developed interconnected business lines, creating a solid and harmonious ecosystem.
