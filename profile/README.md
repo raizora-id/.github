@@ -9,7 +9,8 @@ Our vision is to spread happiness, create beautiful moments, and offer exciting 
 ### 🍿 An interconnected Dots
 We currently have three growing business lines:
 - **Himajin** - Focused on hobbies, offering products and services to support hobby enthusiasts. We aim to be the go-to place for hobby lovers.
-- **Tempat Teduh** - A property business providing comfortable and high-quality housing solutions, creating peaceful living spaces.
 - **Ketuju Creative** - A digital agency offering services like web and app development, social media management, UI design, graphic design, logo design, and product photography. We help businesses succeed in the digital age with innovative solutions.
+- **Gea Tourism** -  Driver, car rental, guide & travel packages from Yogyakarta. Exploring Indonesia with comfort. ✨
+- **Tempat Teduh** - A property business providing comfortable and high-quality housing solutions, creating peaceful living spaces.
 
 With passion and dedication, Raizora is committed to continuous innovation and growth, always striving to provide the best for our customers, employees, and community. We invite you to join us on this journey and create beautiful moments and unforgettable experiences together.
