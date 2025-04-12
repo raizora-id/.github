@@ -1,34 +1,11 @@
 ## Hi, this is us 👋
-
-
---[[
-                                                                                                                      
-                                                                                                                      
-RRRRRRRRRRRRRRRRR                       iiii                                                                          
-R::::::::::::::::R                     i::::i                                                                         
-R::::::RRRRRR:::::R                     iiii                                                                          
-RR:::::R     R:::::R                                                                                                  
-  R::::R     R:::::R  aaaaaaaaaaaaa   iiiiiii zzzzzzzzzzzzzzzzz   ooooooooooo   rrrrr   rrrrrrrrr     aaaaaaaaaaaaa   
-  R::::R     R:::::R  a::::::::::::a  i:::::i z:::::::::::::::z oo:::::::::::oo r::::rrr:::::::::r    a::::::::::::a  
-  R::::RRRRRR:::::R   aaaaaaaaa:::::a  i::::i z::::::::::::::z o:::::::::::::::or:::::::::::::::::r   aaaaaaaaa:::::a 
-  R:::::::::::::RR             a::::a  i::::i zzzzzzzz::::::z  o:::::ooooo:::::orr::::::rrrrr::::::r           a::::a 
-  R::::RRRRRR:::::R     aaaaaaa:::::a  i::::i       z::::::z   o::::o     o::::o r:::::r     r:::::r    aaaaaaa:::::a 
-  R::::R     R:::::R  aa::::::::::::a  i::::i      z::::::z    o::::o     o::::o r:::::r     rrrrrrr  aa::::::::::::a 
-  R::::R     R:::::R a::::aaaa::::::a  i::::i     z::::::z     o::::o     o::::o r:::::r             a::::aaaa::::::a 
-  R::::R     R:::::Ra::::a    a:::::a  i::::i    z::::::z      o::::o     o::::o r:::::r            a::::a    a:::::a 
-RR:::::R     R:::::Ra::::a    a:::::a i::::::i  z::::::zzzzzzzzo:::::ooooo:::::o r:::::r            a::::a    a:::::a 
-R::::::R     R:::::Ra:::::aaaa::::::a i::::::i z::::::::::::::zo:::::::::::::::o r:::::r            a:::::aaaa::::::a 
-R::::::R     R:::::R a::::::::::aa:::ai::::::iz:::::::::::::::z oo:::::::::::oo  r:::::r             a::::::::::aa:::a
-RRRRRRRR     RRRRRRR  aaaaaaaaaa  aaaaiiiiiiiizzzzzzzzzzzzzzzzz   ooooooooooo    rrrrrrr              aaaaaaaaaa  aaaa
-                                                                                                                      
-                                                                                                                      
-                                                                                                                      
-                                                                                                                      
-                                                                                                                      
-                                                                                                                      
-                                                                                                                      
---]]
-
+```
+██████   █████  ██ ███████  ██████  ██████   █████  
+  ██   ██ ██   ██ ██    ███  ██    ██ ██   ██ ██   ██ 
+  ██████  ███████ ██   ███   ██    ██ ██████  ███████ 
+  ██   ██ ██   ██ ██  ███    ██    ██ ██   ██ ██   ██ 
+  ██   ██ ██   ██ ██ ███████  ██████  ██   ██ ██   ██
+```
 
 Raizora was founded in 2024 and is located in Banjarbaru, South Kalimantan. The name "Raizora" comes from Spanish, meaning "root." This name represents our aim to be a strong foundation for innovative and sustainable business ideas.
 
