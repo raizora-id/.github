@@ -1,4 +1,4 @@
-![Frame 2 (2)](https://github.com/user-attachments/assets/019a76bf-e8ac-4fd9-9696-f8b85131f484)
+![Screenshot 2025-04-12 at 17 32 29](https://github.com/user-attachments/assets/0953454c-a947-442a-9110-96d9d1f86a9c)
 
 ## Hi, this is us 👋
 Raizora was founded in 2024 and is located in Banjarbaru, South Kalimantan. The name "Raizora" comes from Spanish, meaning "root." This name represents our aim to be a strong foundation for innovative and sustainable business ideas.
